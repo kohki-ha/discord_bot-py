@@ -1,3 +1,3 @@
 # discord_bot-py
 
-discord music bot
+Discord music bot
