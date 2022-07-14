@@ -22,4 +22,4 @@ async def on_ready():
 
 
 
-bot.run('ODg4MjU1OTEzNjI5MjE2Nzc5.YUQCyA.WANDT1MsCRn2lhVu5zVzCEY7hDU')
+bot.run('key_here')
